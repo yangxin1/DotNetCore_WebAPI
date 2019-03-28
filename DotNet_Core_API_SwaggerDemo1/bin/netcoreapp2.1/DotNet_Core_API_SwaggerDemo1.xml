@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DotNet_Core_API_SwaggerDemo1</name>
+    </assembly>
+    <members>
+        <member name="F:DotNet_Core_API_SwaggerDemo1.Controllers.HomeController.List">
+            <summary>
+            构造数据
+            </summary>
+        </member>
+        <!-- 对于成员“M:DotNet_Core_API_SwaggerDemo1.Controllers.HomeController.GetList”忽略有格式错误的 XML 注释 -->
+        <member name="T:DotNet_Core_API_SwaggerDemo1.Model.User">
+            <summary>
+            用户类
+            </summary>
+        </member>
+        <member name="P:DotNet_Core_API_SwaggerDemo1.Model.User.Id">
+            <summary>
+            id
+            </summary>
+        </member>
+        <member name="P:DotNet_Core_API_SwaggerDemo1.Model.User.Name">
+            <summary>
+            姓名
+            </summary>
+        </member>
+        <member name="P:DotNet_Core_API_SwaggerDemo1.Model.User.Age">
+            <summary>
+            年龄
+            </summary>
+        </member>
+    </members>
+</doc>

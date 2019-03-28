@@ -1,0 +1,116 @@
+2019-03-26 20:40:23.0122|DotNet_Core_API_SwaggerDemo1.Controllers.HomeController|INFO|开始查询数据（控制器端） 
+2019-03-26 20:40:23.0789|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|开始查询数据库（数据访问层） 
+2019-03-26 20:40:23.3666|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|生成的sql语句：select * from user where  id = '456' 
+2019-03-26 20:40:24.1120|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|结束查询（数据访问层） 
+2019-03-26 20:49:19.5004|DotNet_Core_API_SwaggerDemo1.Controllers.HomeController|INFO|开始查询数据（控制器端） 
+2019-03-26 20:49:19.5113|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|开始查询数据库（数据访问层） 
+2019-03-26 20:49:19.5378|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|生成的sql语句：select * from user where  id = '456' 
+2019-03-26 20:49:19.5854|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|结束查询（数据访问层） 
+2019-03-26 20:49:28.1855|DotNet_Core_API_SwaggerDemo1.Controllers.HomeController|INFO|开始查询数据（控制器端） 
+2019-03-26 20:49:28.1855|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|开始查询数据库（数据访问层） 
+2019-03-26 20:49:28.1855|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|生成的sql语句：select * from user where  id = '456' 
+2019-03-26 20:49:28.1855|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|结束查询（数据访问层） 
+2019-03-26 20:50:20.3431|DotNet_Core_API_SwaggerDemo1.Controllers.HomeController|INFO|开始查询数据（控制器端） 
+2019-03-26 20:50:20.3431|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|开始查询数据库（数据访问层） 
+2019-03-26 20:50:20.3431|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|生成的sql语句：select * from user where  id = '456' 
+2019-03-26 20:50:20.3616|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|结束查询（数据访问层） 
+2019-03-26 20:52:30.9050|DotNet_Core_API_SwaggerDemo1.Controllers.HomeController|INFO|开始查询数据（控制器端） 
+2019-03-26 20:52:30.9050|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|开始查询数据库（数据访问层） 
+2019-03-26 20:52:30.9176|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|生成的sql语句：select * from user where  id = '456' 
+2019-03-26 20:52:30.9176|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|结束查询（数据访问层） 
+2019-03-26 20:52:51.9555|DotNet_Core_API_SwaggerDemo1.Controllers.HomeController|INFO|开始查询数据（控制器端） 
+2019-03-26 20:52:51.9555|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|开始查询数据库（数据访问层） 
+2019-03-26 20:52:51.9709|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|生成的sql语句：select * from user where  id = '456' 
+2019-03-26 20:52:51.9882|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|结束查询（数据访问层） 
+2019-03-26 20:54:59.6537|DotNet_Core_API_SwaggerDemo1.Controllers.HomeController|INFO|开始查询数据（控制器端） 
+2019-03-26 20:54:59.6537|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|开始查询数据库（数据访问层） 
+2019-03-26 20:54:59.6738|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|生成的sql语句：select * from user where  id = '1' 
+2019-03-26 20:54:59.6873|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|结束查询（数据访问层） 
+2019-03-26 20:55:56.7789|DotNet_Core_API_SwaggerDemo1.Controllers.HomeController|INFO|开始查询数据（控制器端） 
+2019-03-26 20:55:56.7789|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|开始查询数据库（数据访问层） 
+2019-03-26 20:55:56.8005|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|生成的sql语句：select * from user where  id = '2' 
+2019-03-26 20:55:56.8005|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|结束查询（数据访问层） 
+2019-03-26 20:57:02.3116|DotNet_Core_API_SwaggerDemo1.Controllers.HomeController|INFO|开始查询数据（控制器端） 
+2019-03-26 20:57:02.3256|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|开始查询数据库（数据访问层） 
+2019-03-26 20:57:02.3256|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|生成的sql语句：select * from user where  id = '2' 
+2019-03-26 20:57:02.3747|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|结束查询（数据访问层） 
+2019-03-26 20:58:27.2798|DotNet_Core_API_SwaggerDemo1.Controllers.HomeController|INFO|开始查询数据（控制器端） 
+2019-03-26 20:58:27.2922|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|开始查询数据库（数据访问层） 
+2019-03-26 20:58:27.2922|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|生成的sql语句：select * from user where  id = '32' 
+2019-03-26 20:58:27.2922|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|结束查询（数据访问层） 
+2019-03-26 21:00:53.4518|DotNet_Core_API_SwaggerDemo1.Controllers.HomeController|INFO|开始查询数据（控制器端） 
+2019-03-26 21:00:53.4651|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|开始查询数据库（数据访问层） 
+2019-03-26 21:00:53.4651|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|生成的sql语句：select * from user where  id = '21' 
+2019-03-26 21:00:53.4651|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|结束查询（数据访问层） 
+2019-03-26 21:01:24.5689|DotNet_Core_API_SwaggerDemo1.Controllers.HomeController|INFO|开始查询数据（控制器端） 
+2019-03-26 21:01:24.5689|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|开始查询数据库（数据访问层） 
+2019-03-26 21:01:24.6178|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|生成的sql语句：select * from user where  id = '456' 
+2019-03-26 21:01:24.6227|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|结束查询（数据访问层） 
+2019-03-26 21:03:43.8116|DotNet_Core_API_SwaggerDemo1.Controllers.HomeController|INFO|开始查询数据（控制器端） 
+2019-03-26 21:03:43.8116|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|开始查询数据库（数据访问层） 
+2019-03-26 21:03:43.8245|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|生成的sql语句：select * from user where  id = '1' 
+2019-03-26 21:03:43.8245|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|结束查询（数据访问层） 
+2019-03-26 21:04:23.1886|DotNet_Core_API_SwaggerDemo1.Controllers.HomeController|INFO|开始查询数据（控制器端） 
+2019-03-26 21:04:23.1886|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|开始查询数据库（数据访问层） 
+2019-03-26 21:04:23.2116|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|生成的sql语句：select * from user where  id = '233' 
+2019-03-26 21:04:23.2216|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|结束查询（数据访问层） 
+2019-03-26 21:08:44.7006|DotNet_Core_API_SwaggerDemo1.Controllers.HomeController|INFO|开始查询数据（控制器端） 
+2019-03-26 21:08:44.7167|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|开始查询数据库（数据访问层） 
+2019-03-26 21:08:44.7167|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|生成的sql语句：select * from user where  id = '555' 
+2019-03-26 21:08:44.7487|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|结束查询（数据访问层） 
+2019-03-26 21:11:11.9222|DotNet_Core_API_SwaggerDemo1.Controllers.HomeController|INFO|开始查询数据（控制器端） 
+2019-03-26 21:11:11.9222|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|开始查询数据库（数据访问层） 
+2019-03-26 21:11:11.9222|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|生成的sql语句：select * from user where  id = '123' 
+2019-03-26 21:11:11.9353|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|结束查询（数据访问层） 
+2019-03-26 21:11:25.9501|DotNet_Core_API_SwaggerDemo1.Controllers.HomeController|INFO|开始查询数据（控制器端） 
+2019-03-26 21:11:25.9501|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|开始查询数据库（数据访问层） 
+2019-03-26 21:11:25.9667|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|生成的sql语句：select * from user where  id = '123' 
+2019-03-26 21:11:25.9667|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|结束查询（数据访问层） 
+2019-03-26 21:12:05.0640|DotNet_Core_API_SwaggerDemo1.Controllers.HomeController|INFO|开始查询数据（控制器端） 
+2019-03-26 21:12:05.0640|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|开始查询数据库（数据访问层） 
+2019-03-26 21:12:05.0780|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|生成的sql语句：select * from user where  id = '1' 
+2019-03-26 21:12:05.0780|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|结束查询（数据访问层） 
+2019-03-26 21:12:21.1069|DotNet_Core_API_SwaggerDemo1.Controllers.HomeController|INFO|开始查询数据（控制器端） 
+2019-03-26 21:12:21.1069|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|开始查询数据库（数据访问层） 
+2019-03-26 21:12:21.1345|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|生成的sql语句：select * from user where  id = '4' 
+2019-03-26 21:12:21.1385|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|结束查询（数据访问层） 
+2019-03-26 21:12:28.1680|DotNet_Core_API_SwaggerDemo1.Controllers.HomeController|INFO|开始查询数据（控制器端） 
+2019-03-26 21:12:28.1680|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|开始查询数据库（数据访问层） 
+2019-03-26 21:12:28.1859|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|生成的sql语句：select * from user where  id = '10002' 
+2019-03-26 21:12:28.2017|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|结束查询（数据访问层） 
+2019-03-26 21:12:28.2017|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|ERROR|但是未查询到字段值为：10002 相关的数据（数据访问层） 
+2019-03-26 21:16:15.5433|DotNet_Core_API_SwaggerDemo1.Controllers.HomeController|INFO|开始查询数据（控制器端） 
+2019-03-26 21:16:15.5433|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|开始查询数据库（数据访问层） 
+2019-03-26 21:16:15.5433|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|生成的sql语句：select * from user where  id = '1' 
+2019-03-26 21:16:15.5894|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|结束查询（数据访问层） 
+2019-03-26 21:18:06.7837|DotNet_Core_API_SwaggerDemo1.Controllers.HomeController|INFO|开始查询数据（控制器端） 
+2019-03-26 21:18:06.7837|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|开始查询数据库（数据访问层） 
+2019-03-26 21:18:06.7965|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|生成的sql语句：select * from user where  id = '233' 
+2019-03-26 21:18:06.7965|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|结束查询（数据访问层） 
+2019-03-26 21:18:34.5744|DotNet_Core_API_SwaggerDemo1.Controllers.HomeController|INFO|开始查询数据（控制器端） 
+2019-03-26 21:18:34.5744|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|开始查询数据库（数据访问层） 
+2019-03-26 21:18:34.5974|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|生成的sql语句：select * from user where  id = '12' 
+2019-03-26 21:18:34.6290|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|结束查询（数据访问层） 
+2019-03-26 21:18:34.6290|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|ERROR|但是未查询到字段值为：12 相关的数据（数据访问层） 
+2019-03-26 21:18:37.6725|DotNet_Core_API_SwaggerDemo1.Controllers.HomeController|INFO|开始查询数据（控制器端） 
+2019-03-26 21:18:37.6725|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|开始查询数据库（数据访问层） 
+2019-03-26 21:18:37.6851|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|生成的sql语句：select * from user where  id = '11' 
+2019-03-26 21:18:37.6851|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|结束查询（数据访问层） 
+2019-03-26 21:18:37.6851|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|ERROR|但是未查询到字段值为：11 相关的数据（数据访问层） 
+2019-03-26 21:18:40.5752|DotNet_Core_API_SwaggerDemo1.Controllers.HomeController|INFO|开始查询数据（控制器端） 
+2019-03-26 21:18:40.5752|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|开始查询数据库（数据访问层） 
+2019-03-26 21:18:40.5752|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|生成的sql语句：select * from user where  id = '3' 
+2019-03-26 21:18:40.5752|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|结束查询（数据访问层） 
+2019-03-26 21:18:42.9045|DotNet_Core_API_SwaggerDemo1.Controllers.HomeController|INFO|开始查询数据（控制器端） 
+2019-03-26 21:18:42.9045|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|开始查询数据库（数据访问层） 
+2019-03-26 21:18:42.9178|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|生成的sql语句：select * from user where  id = '2' 
+2019-03-26 21:18:42.9178|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|结束查询（数据访问层） 
+2019-03-26 21:18:44.2661|DotNet_Core_API_SwaggerDemo1.Controllers.HomeController|INFO|开始查询数据（控制器端） 
+2019-03-26 21:18:44.2661|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|开始查询数据库（数据访问层） 
+2019-03-26 21:18:44.2661|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|生成的sql语句：select * from user where  id = '1' 
+2019-03-26 21:18:44.2815|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|结束查询（数据访问层） 
+2019-03-26 21:18:46.3257|DotNet_Core_API_SwaggerDemo1.Controllers.HomeController|INFO|开始查询数据（控制器端） 
+2019-03-26 21:18:46.3257|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|开始查询数据库（数据访问层） 
+2019-03-26 21:18:46.3257|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|生成的sql语句：select * from user where  id = '5' 
+2019-03-26 21:18:46.3257|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|INFO|结束查询（数据访问层） 
+2019-03-26 21:18:46.3401|DotNet_Core_API_SwaggerDemo1.DAL.DBHelper`1|ERROR|但是未查询到字段值为：5 相关的数据（数据访问层） 
