@@ -9,13 +9,13 @@ using System.Data.SqlClient;
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
-   
+
 namespace DotNet_Core_API_SwaggerDemo1.DAL
 {
     /// <summary>
     /// 数据访问
     /// </summary>
-    public class DBHelper<T> : IDBHelper<T> where T : class, new()
+    public abstract class DBHelper<T> : IDBHelper<T> where T : class, new()
     {
         #region field
         /// <summary>

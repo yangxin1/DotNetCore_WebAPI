@@ -185,11 +185,20 @@ namespace DotNet_Core_API_SwaggerDemo1.Controllers
                     User data = new User { Id = i, Name = "machine_data" + i.ToString(), Age = 50 };
                     bool result = await _DBHelper.AddModel(data, "user");
                 }
+                _log.Info("成功添加1000条数据");
                 return Ok();
             }
             else
             {
-                return NotFound();
+                if (isadd == false)
+                {
+                    _log.Error("添加1000条数据失败，因为该功能目前被禁用");
+                }
+                else
+                {
+                    _log.Error("添加1000条数据失败");
+                }
+                return BadRequest();//NotFound();
             }
         }
         #endregion 

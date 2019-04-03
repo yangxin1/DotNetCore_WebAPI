@@ -36,8 +36,7 @@ namespace DotNet_Core_API_SwaggerDemo1
                  .AllowCredentials());
             });
             #endregion
-
-
+            
             #region Swagger和Token
             //添加swagger
             services.AddSwaggerGen(c =>

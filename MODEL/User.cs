@@ -1,6 +1,4 @@
-﻿  
-
-namespace DotNet_Core_API_SwaggerDemo1.Model
+﻿namespace DotNet_Core_API_SwaggerDemo1.Model
 {
     /// <summary>
     /// 用户类
