@@ -22,3 +22,15 @@ E:\Code\DotNetCore\DotNetCore_MVC-WebAPI-master\GitDemo1\IDAL\obj\Debug\netcorea
 E:\Code\DotNetCore\DotNetCore_MVC-WebAPI-master\GitDemo1\IDAL\obj\Debug\netcoreapp2.1\IDAL.csproj.CopyComplete
 E:\Code\DotNetCore\DotNetCore_MVC-WebAPI-master\GitDemo1\IDAL\obj\Debug\netcoreapp2.1\IDAL.dll
 E:\Code\DotNetCore\DotNetCore_MVC-WebAPI-master\GitDemo1\IDAL\obj\Debug\netcoreapp2.1\IDAL.pdb
+E:\Code\gitcode\DotNetCore_WebAPI\IDAL\bin\Debug\netcoreapp2.1\IDAL.deps.json
+E:\Code\gitcode\DotNetCore_WebAPI\IDAL\bin\Debug\netcoreapp2.1\IDAL.dll
+E:\Code\gitcode\DotNetCore_WebAPI\IDAL\bin\Debug\netcoreapp2.1\IDAL.pdb
+E:\Code\gitcode\DotNetCore_WebAPI\IDAL\bin\Debug\netcoreapp2.1\MODEL.dll
+E:\Code\gitcode\DotNetCore_WebAPI\IDAL\bin\Debug\netcoreapp2.1\MODEL.pdb
+E:\Code\gitcode\DotNetCore_WebAPI\IDAL\obj\Debug\netcoreapp2.1\IDAL.csprojAssemblyReference.cache
+E:\Code\gitcode\DotNetCore_WebAPI\IDAL\obj\Debug\netcoreapp2.1\IDAL.csproj.CoreCompileInputs.cache
+E:\Code\gitcode\DotNetCore_WebAPI\IDAL\obj\Debug\netcoreapp2.1\IDAL.AssemblyInfoInputs.cache
+E:\Code\gitcode\DotNetCore_WebAPI\IDAL\obj\Debug\netcoreapp2.1\IDAL.AssemblyInfo.cs
+E:\Code\gitcode\DotNetCore_WebAPI\IDAL\obj\Debug\netcoreapp2.1\IDAL.csproj.CopyComplete
+E:\Code\gitcode\DotNetCore_WebAPI\IDAL\obj\Debug\netcoreapp2.1\IDAL.dll
+E:\Code\gitcode\DotNetCore_WebAPI\IDAL\obj\Debug\netcoreapp2.1\IDAL.pdb

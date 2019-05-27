@@ -1,13 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
-using DotNet_Core_API_SwaggerDemo1.DAL;
-using DotNet_Core_API_SwaggerDemo1.IDAL;
 using DotNet_Core_API_SwaggerDemo1.Model;
 using IDAL;
 using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
-using MySql.Data.MySqlClient;
 using Newtonsoft.Json;
 using NLog;
 
@@ -16,7 +12,6 @@ namespace DotNet_Core_API_SwaggerDemo1.Controllers
     /// <summary>
     /// 基础CRUD控制器
     /// </summary>
-    [Route("api")]
     [ApiController]
     public class HomeController : ControllerBase
     {
@@ -46,8 +41,8 @@ namespace DotNet_Core_API_SwaggerDemo1.Controllers
         /// <param name="pagecount">每页显示条数</param>
         /// <returns></returns>
         [EnableCors("Cors")]//跨域
-        [HttpPost]
-        [Route("[controller]/[action]")]
+        [HttpGet]
+        [Route("api/home/userlist")]
         public async Task<List<User>> GetList(int pagesize=1,int pagecount=2)
         {
             return await _DBHelper.GetList("user", pagesize, pagecount);
@@ -60,7 +55,7 @@ namespace DotNet_Core_API_SwaggerDemo1.Controllers
         /// <returns></returns>
         [EnableCors("Cors")]//跨域
         [HttpGet]
-        [Route("[controller]/[action]")]
+        [Route("api/home/user")]
         public async Task<User> GetUserbyId(int id)
         {
             _log.Info("开始查询数据（控制器端）");
@@ -83,7 +78,7 @@ namespace DotNet_Core_API_SwaggerDemo1.Controllers
         /// <returns></returns>
         [EnableCors("Cors")]//跨域
         [HttpGet]
-        [Route("[controller]/[action]")]
+        [Route("api/home/userjson")]
         public async Task<string> GetUserbyIdJson(int id)
         {
             _log.Info("开始查询数据（控制器端）");
@@ -96,8 +91,8 @@ namespace DotNet_Core_API_SwaggerDemo1.Controllers
         /// <param name="name">姓名</param>
         /// <returns>model</returns>
         [EnableCors("Cors")]//跨域
-        [HttpPost]
-        [Route("[controller]/[action]")]
+        [HttpGet]
+        [Route("api/home/username")]
         public async Task<User> GetUserbyName(string name)
         {
             return await _DBHelper.GetModel("user", "name", name);
@@ -108,8 +103,8 @@ namespace DotNet_Core_API_SwaggerDemo1.Controllers
         /// <param name="newuser"></param>
         /// <returns></returns>
         [EnableCors("Cors")]//跨域
-        [HttpPost]
-        [Route("[controller]/[action]")]
+        [HttpPut]
+        [Route("api/home/user")]
         public async Task<IActionResult> EditUser([FromBody]User newuser)
         {
             _log.Info("开始修改数据（控制器端）");
@@ -132,7 +127,7 @@ namespace DotNet_Core_API_SwaggerDemo1.Controllers
         /// <returns></returns>
         [EnableCors("Cors")]//跨域
         [HttpPost]
-        [Route("[controller]/[action]")]
+        [Route("api/home/user")]
         public async Task<IActionResult> AddUser([FromBody] User newuser)
         {
             bool result = await _DBHelper.AddModel(newuser, "user");
@@ -153,8 +148,8 @@ namespace DotNet_Core_API_SwaggerDemo1.Controllers
         /// <param name="id"></param>
         /// <returns></returns>
         [EnableCors("Cors")]//跨域
-        [HttpPost]
-        [Route("[controller]/[action]")]
+        [HttpDelete]
+        [Route("api/home/user")]
         public async Task<IActionResult> DeleteUser(int id)
         {
             bool result = await _DBHelper.DeleteModel("user", id);
@@ -174,7 +169,7 @@ namespace DotNet_Core_API_SwaggerDemo1.Controllers
         /// <returns></returns>
         [EnableCors("Cors")]//跨域
         [HttpPost]
-        [Route("[controller]/[action]")]
+        [Route("api/home/user1000")]
         public async Task<IActionResult> Add1000data(bool isadd)
         {
             isadd = false;

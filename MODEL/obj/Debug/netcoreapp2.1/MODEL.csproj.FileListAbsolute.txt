@@ -16,3 +16,12 @@ E:\Code\DotNetCore\DotNetCore_MVC-WebAPI-master\GitDemo1\MODEL\obj\Debug\netcore
 E:\Code\DotNetCore\DotNetCore_MVC-WebAPI-master\GitDemo1\MODEL\obj\Debug\netcoreapp2.1\MODEL.AssemblyInfo.cs
 E:\Code\DotNetCore\DotNetCore_MVC-WebAPI-master\GitDemo1\MODEL\obj\Debug\netcoreapp2.1\MODEL.dll
 E:\Code\DotNetCore\DotNetCore_MVC-WebAPI-master\GitDemo1\MODEL\obj\Debug\netcoreapp2.1\MODEL.pdb
+E:\Code\gitcode\DotNetCore_WebAPI\MODEL\bin\Debug\netcoreapp2.1\MODEL.deps.json
+E:\Code\gitcode\DotNetCore_WebAPI\MODEL\bin\Debug\netcoreapp2.1\MODEL.dll
+E:\Code\gitcode\DotNetCore_WebAPI\MODEL\bin\Debug\netcoreapp2.1\MODEL.pdb
+E:\Code\gitcode\DotNetCore_WebAPI\MODEL\obj\Debug\netcoreapp2.1\MODEL.csprojAssemblyReference.cache
+E:\Code\gitcode\DotNetCore_WebAPI\MODEL\obj\Debug\netcoreapp2.1\MODEL.csproj.CoreCompileInputs.cache
+E:\Code\gitcode\DotNetCore_WebAPI\MODEL\obj\Debug\netcoreapp2.1\MODEL.AssemblyInfoInputs.cache
+E:\Code\gitcode\DotNetCore_WebAPI\MODEL\obj\Debug\netcoreapp2.1\MODEL.AssemblyInfo.cs
+E:\Code\gitcode\DotNetCore_WebAPI\MODEL\obj\Debug\netcoreapp2.1\MODEL.dll
+E:\Code\gitcode\DotNetCore_WebAPI\MODEL\obj\Debug\netcoreapp2.1\MODEL.pdb

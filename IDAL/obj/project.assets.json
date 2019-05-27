@@ -1834,11 +1834,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code\\DotNetCore\\DotNetCore_MVC-WebAPI-master\\GitDemo1\\IDAL\\IDAL.csproj",
+      "projectUniqueName": "E:\\Code\\gitcode\\DotNetCore_WebAPI\\IDAL\\IDAL.csproj",
       "projectName": "IDAL",
-      "projectPath": "E:\\Code\\DotNetCore\\DotNetCore_MVC-WebAPI-master\\GitDemo1\\IDAL\\IDAL.csproj",
+      "projectPath": "E:\\Code\\gitcode\\DotNetCore_WebAPI\\IDAL\\IDAL.csproj",
       "packagesPath": "C:\\Users\\a4200\\.nuget\\packages\\",
-      "outputPath": "E:\\Code\\DotNetCore\\DotNetCore_MVC-WebAPI-master\\GitDemo1\\IDAL\\obj\\",
+      "outputPath": "E:\\Code\\gitcode\\DotNetCore_WebAPI\\IDAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1857,8 +1857,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "E:\\Code\\DotNetCore\\DotNetCore_MVC-WebAPI-master\\GitDemo1\\MODEL\\MODEL.csproj": {
-              "projectPath": "E:\\Code\\DotNetCore\\DotNetCore_MVC-WebAPI-master\\GitDemo1\\MODEL\\MODEL.csproj"
+            "E:\\Code\\gitcode\\DotNetCore_WebAPI\\MODEL\\MODEL.csproj": {
+              "projectPath": "E:\\Code\\gitcode\\DotNetCore_WebAPI\\MODEL\\MODEL.csproj"
             }
           }
         }

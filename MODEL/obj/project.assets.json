@@ -1440,11 +1440,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\Code\\DotNetCore\\DotNetCore_MVC-WebAPI-master\\GitDemo1\\MODEL\\MODEL.csproj",
+      "projectUniqueName": "E:\\Code\\gitcode\\DotNetCore_WebAPI\\MODEL\\MODEL.csproj",
       "projectName": "MODEL",
-      "projectPath": "e:\\Code\\DotNetCore\\DotNetCore_MVC-WebAPI-master\\GitDemo1\\MODEL\\MODEL.csproj",
+      "projectPath": "E:\\Code\\gitcode\\DotNetCore_WebAPI\\MODEL\\MODEL.csproj",
       "packagesPath": "C:\\Users\\a4200\\.nuget\\packages\\",
-      "outputPath": "e:\\Code\\DotNetCore\\DotNetCore_MVC-WebAPI-master\\GitDemo1\\MODEL\\obj\\",
+      "outputPath": "E:\\Code\\gitcode\\DotNetCore_WebAPI\\MODEL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
