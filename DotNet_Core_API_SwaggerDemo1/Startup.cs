@@ -80,7 +80,7 @@ namespace DotNet_Core_API_SwaggerDemo1
 
             #region 依赖注入
             var IOCbuilder = new ContainerBuilder();//建立容器
-            List<Assembly> programlist = new List<Assembly> { Assembly.Load("DAL"),Assembly.Load("IDAL"),Assembly.Load("MODEL"),Assembly.Load("DotNet_Core_API_SwaggerDemo1") };//批量反射程序集（临时）
+            List<Assembly> programlist = new List<Assembly> { Assembly.Load("DAL")/*,Assembly.Load("IDAL"),Assembly.Load("MODEL"),Assembly.Load("DotNet_Core_API_SwaggerDemo1") */};//批量反射程序集（临时）
             foreach(var q in programlist)
             {
                 IOCbuilder.RegisterAssemblyTypes(q).AsImplementedInterfaces(); //注册容器
