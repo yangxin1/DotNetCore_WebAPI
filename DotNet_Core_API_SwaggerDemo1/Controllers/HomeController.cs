@@ -4,6 +4,7 @@ using DotNet_Core_API_SwaggerDemo1.Model;
 using IDAL;
 using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
+using MODEL.Web;
 using Newtonsoft.Json;
 using NLog;
 
@@ -43,10 +44,10 @@ namespace DotNet_Core_API_SwaggerDemo1.Controllers
         [EnableCors("Cors")]//跨域
         [HttpGet]
         [Route("api/home/userlist")]
-        public async Task<List<User>> GetList(int pagesize=1,int pagecount=2)
+        public async Task<IActionResult> GetListAsync(int pagesize=1,int pagecount=2)
         {
-            return await _DBHelper.GetList("user", pagesize, pagecount);
-            //return await DBHelper<User>.GetList("user", pagesize, pagecount);
+             List<User> list = await _DBHelper.GetList("user", pagesize, pagecount);
+            return new WebResult(200, list);
         }
         /// <summary>
         /// 根据ID 获取用户（使用异步，读取数据库）

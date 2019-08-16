@@ -25,3 +25,6 @@ E:\Code\gitcode\DotNetCore_WebAPI\MODEL\obj\Debug\netcoreapp2.1\MODEL.AssemblyIn
 E:\Code\gitcode\DotNetCore_WebAPI\MODEL\obj\Debug\netcoreapp2.1\MODEL.AssemblyInfo.cs
 E:\Code\gitcode\DotNetCore_WebAPI\MODEL\obj\Debug\netcoreapp2.1\MODEL.dll
 E:\Code\gitcode\DotNetCore_WebAPI\MODEL\obj\Debug\netcoreapp2.1\MODEL.pdb
+E:\Code\gitcode\DotNetCore_WebAPI\MODEL\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Code\gitcode\DotNetCore_WebAPI\MODEL\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+E:\Code\gitcode\DotNetCore_WebAPI\MODEL\obj\Debug\netcoreapp2.1\MODEL.csproj.CopyComplete

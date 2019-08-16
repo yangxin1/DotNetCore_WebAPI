@@ -97,6 +97,7 @@ namespace DotNet_Core_API_SwaggerDemo1
         /// </summary>
         /// <param name="app"></param>
         /// <param name="env"></param>
+        /// <param name="loggerFactory">日志</param>
         public void Configure(IApplicationBuilder app, IHostingEnvironment env,ILoggerFactory loggerFactory)
         {
             //
