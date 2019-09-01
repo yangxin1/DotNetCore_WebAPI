@@ -57,11 +57,11 @@ namespace DotNet_Core_API_SwaggerDemo1.Controllers
         [EnableCors("Cors")]//跨域
         [HttpGet]
         [Route("api/home/user")]
-        public async Task<User> GetUserbyId(int id)
+        public async Task<IActionResult> GetUserbyId(int id)
         {
             _log.Info("开始查询数据（控制器端）");
-            return await _DBHelper.GetModel("user", "id", id.ToString());
-
+            var result = await _DBHelper.GetModel("user", "id", id.ToString());
+            return new WebResult(200, result);
             //异步方法1
             //var result = Task.Run(() =>
             //{
@@ -80,11 +80,12 @@ namespace DotNet_Core_API_SwaggerDemo1.Controllers
         [EnableCors("Cors")]//跨域
         [HttpGet]
         [Route("api/home/userjson")]
-        public async Task<string> GetUserbyIdJson(int id)
+        public async Task<IActionResult> GetUserbyIdJson(int id)
         {
             _log.Info("开始查询数据（控制器端）");
             User result = await _DBHelper.GetModel("user", "id", id.ToString());
-            return JsonConvert.SerializeObject(result);
+            //return JsonConvert.SerializeObject(result);
+            return new WebResult(200, result);
         }
         /// <summary>
         /// 根据姓名获取Model
@@ -94,9 +95,10 @@ namespace DotNet_Core_API_SwaggerDemo1.Controllers
         [EnableCors("Cors")]//跨域
         [HttpGet]
         [Route("api/home/username")]
-        public async Task<User> GetUserbyName(string name)
+        public async Task<IActionResult> GetUserbyName(string name)
         {
-            return await _DBHelper.GetModel("user", "name", name);
+            var result = await _DBHelper.GetModel("user", "name", name);
+            return new WebResult(200, result);
         }
         /// <summary>
         /// 根据ID修改信息(使用异步，读取数据库)
@@ -113,12 +115,14 @@ namespace DotNet_Core_API_SwaggerDemo1.Controllers
             if (result)
             {
                 _log.Info("修改数据成功（控制器端）");
-                return Ok();
+                //return Ok();
+                return new WebResult(200);
             }
             else
             {
                 _log.Info("修改数据失败（控制器端）");
-                return NotFound();
+                //return NotFound();
+                return new WebResult(400, "获取数据失败");
             }
         }
         /// <summary>
@@ -156,11 +160,11 @@ namespace DotNet_Core_API_SwaggerDemo1.Controllers
             bool result = await _DBHelper.DeleteModel("user", id);
             if (result)
             {
-                return Ok();
+                return new WebResult(200);
             }
             else
             {
-                return NotFound();
+                return new WebResult(400,"获取数据失败");
             }
         }
         /// <summary>
