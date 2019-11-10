@@ -25,3 +25,10 @@ E:\Code\gitcode\DotNetCore_WebAPI\MODEL\obj\Debug\netcoreapp2.1\MODEL.AssemblyIn
 E:\Code\gitcode\DotNetCore_WebAPI\MODEL\obj\Debug\netcoreapp2.1\MODEL.AssemblyInfo.cs
 E:\Code\gitcode\DotNetCore_WebAPI\MODEL\obj\Debug\netcoreapp2.1\MODEL.dll
 E:\Code\gitcode\DotNetCore_WebAPI\MODEL\obj\Debug\netcoreapp2.1\MODEL.pdb
+D:\z_code\VS2019\web2018\DotNetCore_WebAPI\MODEL\bin\Debug\netcoreapp2.1\MODEL.deps.json
+D:\z_code\VS2019\web2018\DotNetCore_WebAPI\MODEL\bin\Debug\netcoreapp2.1\MODEL.dll
+D:\z_code\VS2019\web2018\DotNetCore_WebAPI\MODEL\bin\Debug\netcoreapp2.1\MODEL.pdb
+D:\z_code\VS2019\web2018\DotNetCore_WebAPI\MODEL\obj\Debug\netcoreapp2.1\MODEL.AssemblyInfoInputs.cache
+D:\z_code\VS2019\web2018\DotNetCore_WebAPI\MODEL\obj\Debug\netcoreapp2.1\MODEL.AssemblyInfo.cs
+D:\z_code\VS2019\web2018\DotNetCore_WebAPI\MODEL\obj\Debug\netcoreapp2.1\MODEL.dll
+D:\z_code\VS2019\web2018\DotNetCore_WebAPI\MODEL\obj\Debug\netcoreapp2.1\MODEL.pdb

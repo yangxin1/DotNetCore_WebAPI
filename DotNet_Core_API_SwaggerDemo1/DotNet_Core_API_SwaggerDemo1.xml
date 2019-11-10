@@ -87,6 +87,7 @@
             </summary>
             <param name="app"></param>
             <param name="env"></param>
+            <param name="loggerFactory">日志工厂</param>
         </member>
         <member name="M:DotNet_Core_API_SwaggerDemo1.Startup.AddTranTest(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
             <summary>

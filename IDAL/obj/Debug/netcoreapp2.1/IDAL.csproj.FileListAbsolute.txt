@@ -34,3 +34,14 @@ E:\Code\gitcode\DotNetCore_WebAPI\IDAL\obj\Debug\netcoreapp2.1\IDAL.AssemblyInfo
 E:\Code\gitcode\DotNetCore_WebAPI\IDAL\obj\Debug\netcoreapp2.1\IDAL.csproj.CopyComplete
 E:\Code\gitcode\DotNetCore_WebAPI\IDAL\obj\Debug\netcoreapp2.1\IDAL.dll
 E:\Code\gitcode\DotNetCore_WebAPI\IDAL\obj\Debug\netcoreapp2.1\IDAL.pdb
+D:\z_code\VS2019\web2018\DotNetCore_WebAPI\IDAL\bin\Debug\netcoreapp2.1\IDAL.deps.json
+D:\z_code\VS2019\web2018\DotNetCore_WebAPI\IDAL\bin\Debug\netcoreapp2.1\IDAL.dll
+D:\z_code\VS2019\web2018\DotNetCore_WebAPI\IDAL\bin\Debug\netcoreapp2.1\IDAL.pdb
+D:\z_code\VS2019\web2018\DotNetCore_WebAPI\IDAL\bin\Debug\netcoreapp2.1\MODEL.dll
+D:\z_code\VS2019\web2018\DotNetCore_WebAPI\IDAL\bin\Debug\netcoreapp2.1\MODEL.pdb
+D:\z_code\VS2019\web2018\DotNetCore_WebAPI\IDAL\obj\Debug\netcoreapp2.1\IDAL.csprojAssemblyReference.cache
+D:\z_code\VS2019\web2018\DotNetCore_WebAPI\IDAL\obj\Debug\netcoreapp2.1\IDAL.AssemblyInfoInputs.cache
+D:\z_code\VS2019\web2018\DotNetCore_WebAPI\IDAL\obj\Debug\netcoreapp2.1\IDAL.AssemblyInfo.cs
+D:\z_code\VS2019\web2018\DotNetCore_WebAPI\IDAL\obj\Debug\netcoreapp2.1\IDAL.csproj.CopyComplete
+D:\z_code\VS2019\web2018\DotNetCore_WebAPI\IDAL\obj\Debug\netcoreapp2.1\IDAL.dll
+D:\z_code\VS2019\web2018\DotNetCore_WebAPI\IDAL\obj\Debug\netcoreapp2.1\IDAL.pdb
