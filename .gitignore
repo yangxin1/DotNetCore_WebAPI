@@ -4,3 +4,4 @@
 netcoreapp2.1
 bin
 obj
+/.vs
